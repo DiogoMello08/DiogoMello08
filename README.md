@@ -16,5 +16,7 @@
 - Tetris em Python
 
 📫 Contato:
+
 LinkedIn: https://www.linkedin.com/in/diogomello08/
+
 Email: d.iogomello@hotmail.com
