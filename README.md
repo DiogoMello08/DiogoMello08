@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Diogo 👋
 
-<!--
-**DiogoMello08/DiogoMello08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+💻 Tecnologias:
+- Python
+- JavaScript
+- Node.js
+- PostgreSQL
+- Supabase
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projetos:
+- API de autenticação JWT
+- Sistema de envio de mensagens via WhatsApp (Z-API + Supabase)
+- Tetris em Python
+
+📫 Contato:
+LinkedIn: https://www.linkedin.com/in/diogomello08/
+Email: d.iogomello@hotmail.com
